@@ -1,2 +1,2 @@
-# intern-override-metdata
+# intern-override-metadata
 Metadata for Project Intern
