@@ -1,5 +1,4 @@
-# intern-override-metadata
-Metadata for Project Intern
+# Project Intern
 
 The systems for metadata in all our platforms will always have inconsistancies, missing data, etc. Project Intern lets
 users connect their github accounts to Refracture in order to report these issues and or suggest changes to the media's metadata
