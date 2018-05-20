@@ -11,6 +11,6 @@ Users can see all of the submitted suggestions here \(not yet implemented\) .
 {% hint style="danger" %}
 **DISCLAIMER**: We are **not** **responsible** for bad metadata of any kind \(explicit, etc\). All handling of violating content is up to MetMod's discression
 
-**Warning**: Mods talk to each other, pulling crap on this may and will result in banning from other parts of Refracture.
+**Warning**: Moderators, a minimum of 3 cases of violation are required for banning, _**any abuse**_ will result in **moderation ban and developmental.**
 {% endhint %}
 
